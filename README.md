@@ -4,6 +4,9 @@ This repository contains Selenium WebDriver-based test cases for automating inte
 Test Scenarios Covered:
 The test cases in this repository demonstrate how to automate and validate various user interactions on The Internet application. The following scenarios are covered:
 
+- Add/Remove Elements:
+User can add multiple elements using the "Add Element" button and remove them individually using the "Delete" button.
+
 - Basic Authentication:
 Automating the login process using valid and invalid credentials.
 
